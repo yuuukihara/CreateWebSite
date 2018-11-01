@@ -6,6 +6,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Enter</title>
+	<meta http-equiv="refresh" content="0; URL='EnterAction'">
 </head>
 <body>
 
